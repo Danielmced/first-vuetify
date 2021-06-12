@@ -5,3 +5,6 @@ dir		mostrar directorio
 cd		cambiar directorio
 cd ..		retroceder directorio
 mkdir		crear directorio
+
+Hice un cambio
+
