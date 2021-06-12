@@ -1,0 +1,7 @@
+ipconfig	configuracion de ip
+cls		limpiar pantalla	
+pause		pausar el sistema
+dir		mostrar directorio
+cd		cambiar directorio
+cd ..		retroceder directorio
+mkdir		crear directorio
